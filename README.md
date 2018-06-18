@@ -1,5 +1,5 @@
 
-
+https://learn.co/tracks/kwk-student-lessons-l1/navigating-the-command-line/using-learn/kwk-l1-first-ide-lab#
   # Your First IDE Lab
 
   Now that you've learned about the Learn IDE, it's time to solve your first
